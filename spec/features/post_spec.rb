@@ -43,3 +43,4 @@ describe "post" do
     expect(@post.post_status).to eq(true)
   end
 end
+
